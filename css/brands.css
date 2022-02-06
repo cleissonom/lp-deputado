@@ -100,7 +100,7 @@ button:hover,
 /* Github */
 .button.button-github {
   color: #ffffff;
-  background-color: #333;
+  background-color: #3b77b6;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -110,7 +110,7 @@ button:hover,
 /* Instagram */
 .button.button-instagram {
   color: #ffffff;
-  background-color: #c13584
+  background-color: #3b77b6
 }
 .button.button-instagram:hover,
 .button.button-instagram:focus {
@@ -120,7 +120,7 @@ button:hover,
 /* LinkedIn */
 .button.button-linkedin {
   color: #ffffff;
-  background-color: #0077b5 ;
+  background-color: #3b77b6 ;
 }
 .button.button-linkedin:hover,
 .button.button-linkedin:focus {
@@ -160,7 +160,7 @@ button:hover,
 /* Rocketseat */
 .button.button-rocketseat {
   color: #ffffff;
-  background-color: #8257e6;
+  background-color: #3b77b6;
 }
 .button.button-rocketseat:hover,
 .button.button-rocketseat:focus {
@@ -186,7 +186,7 @@ button:hover,
 /* Setup */
 .button.button-setup {
   color: #ffffff;
-  background-color: #f3a952;
+  background-color: #3b77b6;
 }
 .button.button-setup:hover,
 .button.button-setup:focus {
@@ -196,7 +196,7 @@ button:hover,
 /* Wallpaper */
 .button.button-wallpaper {
   color: #ffffff;
-  background-color: #425eda;
+  background-color: #3b77b6;
 }
 .button.button-wallpaper:hover,
 .button.button-wallpaper:focus {
