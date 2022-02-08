@@ -170,18 +170,18 @@ button:hover,
 /* Lofi */
 .button.button-lofi {
   color: #FFF;
-  background-color: #f3a952;
+  background-color: #3b77b6;
 }
 .button.button-lofi:hover,
 .button.button-lofi:focus {
   filter: brightness(90%);
 }
-
+/* 
 .button.button-lofi img {
   padding-top: 0.30rem;
   width: 2.5rem;
   height: 2.5rem;
-}
+} */
 
 /* Setup */
 .button.button-setup {

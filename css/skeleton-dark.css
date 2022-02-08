@@ -92,10 +92,12 @@ html {
   font-size: 100%; }
 body {
   background-color: #dfeaf0;
+  /* background: linear-gradient(to bottom, #dfeaf0, 95%, #3e77b6); */
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
   font-family: 'Roboto Mono', monospace;
+  min-height: 100vh;
   color: #E1E1E6; }
 
 
